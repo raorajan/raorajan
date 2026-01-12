@@ -1,155 +1,169 @@
+<!-- ================================= HEADER SECTION ================================= -->
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Web+Developer." width="100%" />
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋+I'm+Rajan+Kumar;Full+Stack+Web+Developer+💻;Passionate+About+Clean+Code+✨;Turning+Coffee+Into+Code+☕" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- ----------------------------------------------------------CODING-IMAGE--------------------------------------------------------- -->
-
-<img src="https://t4.ftcdn.net/jpg/07/52/29/39/240_F_752293966_M7V5T8hZZGjoItRTpxsDsvuhB7CCaJRl.jpg" width="100%" height="300px" alt="js" />
-
-<h1 align="center">Hi 👋, I'm Rajan Kumar</h1>
-
-<h3 align="center">A passionate FullStack Developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=raobaba&label=Profile%20views&color=0e75b6&style=flat" alt="raobaba" /> 
-</p>
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://raobaba.github.io/)
-
-- 📝 I write articles on [medium](https://medium.com/@raorajan9576)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **raorajan9576@gmail.com**
-
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1BTKLp3CJppeCg9rcnZ7ubeKW6izSAfGJ/view?usp=sharing)
-
-- ⚡ Fun fact **I am funny and can sing**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/kumar-rajan/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/rajanrao7061" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-    </a>
-    <a href="https://codesandbox.io/u/rajan%20rao" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@raorajan9576" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/raorajan9576" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/raorajan9576/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/wegjgq5vsybgvzywh9oqi90df7obapd1l6beyxd0" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-    </a>
-</p>
-
-<h2><a id="user-content-️-my-skills" class="anchor" aria-hidden="true" href="#️-my-skills">🛠️ My Skills</a></h2>
-
-<h3><a id="user-content--programming-languages" class="anchor" aria-hidden="true" href="#-programming-languages">👉 Programming languages</a></h3>
-
-<p>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-<h3><a id="user-content--frontend-development" class="anchor" aria-hidden="true" href="#-frontend-development">👉 Frontend Development</a></h3>
-
-<p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-</p>
-
-<h3><a id="user-content--backend-development" class="anchor" aria-hidden="true" href="#-backend-development">👉 Backend Development</a></h3>
-
-<p align="left">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-</p>
-
-<h3><a id="user-content--database" class="anchor" aria-hidden="true" href="#-database">👉 Database</a></h3>
-
-<p align="left">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-</p>
-
-<h3><a id="user-content--deployed-on" class="anchor" aria-hidden="true" href="#-deployed-on">👉 Deployed On</a></h3>
-
-<p align="left">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-    <img src="https://img.shields.io/badge/Render-FFD166?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
-    <img src="https://img.shields.io/badge/Cyclic-0C344B?style=for-the-badge&logo=cyclic&logoColor=FFFFFF" alt="Cyclic" />
-    <img src="https://img.shields.io/badge/Railway-FF3E00?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
-</p>
-
-<h3><a id="user-content--software--tools" class="anchor" aria-hidden="true" href="#-software--tools">👉 Software & Tools</a></h3>
-
-<p>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox" />
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
-</p>
-
-<h2 align="center">My Github Stats & Streak 📊</h2>
-
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=10&locale=en&theme=dark" alt="raobaba" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raobaba&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=10&theme=dark" alt="raobaba" />
+<!-- ================================= HERO BANNER ================================= -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="100%" height="300px" alt="Developer Banner" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-    <img src="https://streak-stats.demolab.com?user=raobaba&theme=dark&hide_border=false" alt="GitHub Streak" />
+<!-- ================================= PROFILE SECTION ================================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&text=👨‍💻%20Rajan%20Kumar&fontSize=40&fontAlignY=40" />
+  
+  <h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack | Problem Solver</h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=raorajan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
+    <img src="https://img.shields.io/github/followers/raorajan?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen" alt="Open to Work" />
+  </p>
 </div>
 
-<h2><i>Top Repositories</i></h2>
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-    <a href="https://github.com/raobaba/ShopEase-Ecommerce-Project">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=ShopEase-Ecommerce-Project&locale=en&border_radius=10&theme=dark" alt="raobaba" />
-    </a>
-    <a href="https://github.com/raobaba/clone-flipkart-website">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=clone-flipkart-website&locale=en&border_radius=10&theme=dark" alt="raobaba" />
-    </a>
-    <a href="https://github.com/raobaba/Clone-Orbitz">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Clone-Orbitz&locale=en&border_radius=10&theme=dark" alt="raobaba" />
-    </a>
-    <a href="https://github.com/raobaba/Tic_Tac_Toe_GAme">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Tic_Tac_Toe_GAme&locale=en&border_radius=10&theme=dark" alt="raobaba" />
-    </a>
-    <a href="https://github.com/raobaba/Myntra-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Myntra-Clone&locale=en&border_radius=10&theme=dark" alt="raobaba" />
-    </a>
-    <a href="https://github.com/raobaba/Clone-SkinStore">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Clone-SkinStore&locale=en&border_radius=10&theme=dark" alt="raobaba" />
-    </a>
+<!-- ================================= ABOUT ME ================================= -->
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+  
+  ### 🌟 About Me
+  ```javascript
+  const rajan = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "TypeScript", "Python"],
+    techStack: {
+      frontend: ["React", "Redux", "Next.js", "Tailwind CSS"],
+      backend: ["Node.js", "Express", "MongoDB", "MySQL"],
+      devOps: ["Docker", "AWS", "Vercel", "Netlify"]
+    },
+    hobbies: ["Coding", "Singing", "Reading Tech Blogs"],
+    funFact: "I can debug code while singing! 🎤"
+  };
+  ```
 </div>
 
-<div align="center" style="margin-top: 30px;">
-    <img src="https://raw.githubusercontent.com/raobaba/raobaba/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- ================================= QUICK LINKS ================================= -->
+<h2 align="center">📬 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kumar-rajan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/rajanrao7061" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:raorajan9576@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@raorajan9576" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://raorajan.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B8B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/raorajan9576/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<!-- ================================= TECH STACK ================================= -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui" />
+</p>
+
+<h3 align="center">Backend & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,docker,vercel,netlify" />
+</p>
+
+<!-- ================================= GITHUB STATS ================================= -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=raorajan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raorajan&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raorajan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=raorajan&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
+
+<!-- ================================= FEATURED PROJECTS ================================= -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin: 30px 0;">
+  <!-- Project 1 -->
+  <a href="https://github.com/raorajan/ShopEase-Ecommerce-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raorajan&repo=ShopEase-Ecommerce-Project&theme=radical&border_radius=15" />
+  </a>
+  
+  <!-- Project 2 -->
+  <a href="https://github.com/raorajan/clone-flipkart-website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raorajan&repo=clone-flipkart-website&theme=radical&border_radius=15" />
+  </a>
+  
+  <!-- Project 3 -->
+  <a href="https://github.com/raorajan/Clone-Orbitz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raorajan&repo=Clone-Orbitz&theme=radical&border_radius=15" />
+  </a>
+  
+  <!-- Project 4 -->
+  <a href="https://github.com/raorajan/Myntra-Clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raorajan&repo=Myntra-Clone&theme=radical&border_radius=15" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/raorajan?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<!-- ================================= ACTIVITY GRAPH ================================= -->
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raorajan&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
+</div>
+
+<!-- ================================= SNAKE GAME ================================= -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raorajan/raorajan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<!-- ================================= QUOTE ================================= -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+</div>
+
+<!-- ================================= FOOTER ================================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling" />
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Rajan%20Kumar-FF6B8B" alt="Made with love" />
+  </p>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=raorajan&label=Thanks+for+visiting!&color=blueviolet&style=flat" alt="Visitor Counter" />
+  </p>
+</div>
+```
