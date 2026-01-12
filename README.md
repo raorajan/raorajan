@@ -18,53 +18,6 @@
   </p>
 </div>
 
-<!-- ================================= ABOUT ME ================================= -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h2 align="center">🌟 About Me</h2>
-        
-        <h3>👨 Pronouns</h3>
-        <code>he/him</code>
-        
-        <h3>💻 Code</h3>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        
-        <h3>🛠 Tech Stack</h3>
-        <h4>Frontend:</h4>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-        
-        <h4>Backend:</h4>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-        
-        <h4>DevOps:</h4>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
-        
-        <h3>🎯 Hobbies</h3>
-        <p>Coding • Singing • Reading Tech Blogs</p>
-        
-        <h3>🤩 Fun Fact</h3>
-        <p>I can debug code while singing! 🎤</p>
-      </td>
-      <td width="50%" valign="top">
-        <img align="right" alt="Coding" width="100%" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676if" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- ================================= QUICK LINKS ================================= -->
 <h2 align="center">📬 Connect With Me</h2>
 <p align="center">
