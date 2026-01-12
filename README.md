@@ -22,21 +22,48 @@
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
   
-  ### 🌟 About Me
-  ```javascript
-  const rajan = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python"],
-    techStack: {
-      frontend: ["React", "Redux", "Next.js", "Tailwind CSS"],
-      backend: ["Node.js", "Express", "MongoDB", "MySQL"],
-      devOps: ["Docker", "AWS", "Vercel", "Netlify"]
-    },
-    hobbies: ["Coding", "Singing", "Reading Tech Blogs"],
-    funFact: "I can debug code while singing! 🎤"
-  };
-  ```
-</div>
+ ### 🌟 About Me
+
+<table>
+<tr>
+<td>
+
+### 👨 Pronouns  
+`he/him`
+
+### 💻 Code  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🛠 Tech Stack
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+### 🎯 Hobbies  
+Coding • Singing • Reading Tech Blogs
+
+### 🤩 Fun Fact  
+I can debug code while singing! 🎤
+
+</td>
+</tr>
+</table></div>
 
 <!-- ================================= QUICK LINKS ================================= -->
 <h2 align="center">📬 Connect With Me</h2>
