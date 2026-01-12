@@ -107,6 +107,7 @@ I can debug code while singing! 🎤
 </p>
 
 <!-- ================================= GITHUB STATS ================================= -->
+<!-- ================================= GITHUB STATS ================================= -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
