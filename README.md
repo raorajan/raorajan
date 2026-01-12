@@ -1,9 +1,4 @@
 <!-- ================================= HEADER SECTION ================================= -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋+I'm+Rajan+Kumar;Full+Stack+Web+Developer+💻;Passionate+About+Clean+Code+✨;Turning+Coffee+Into+Code+☕" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- ================================= HERO BANNER ================================= -->
 <div align="center">
